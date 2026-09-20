@@ -1,0 +1,24 @@
+Origin: Pulse Repo
+Label: Pulse Repository
+Suite: stable
+Version: 1.0
+Codename: pulse-repo
+Architectures: iphoneos-arm iphoneos-arm64
+Components: main
+Description: My personal jailbreak tweak repository
+Date: Sun, 20 Sep 2026 13:14:09 +0000
+Default-Release: stable
+
+MD5Sum:
+ 2e9b9291d2304e084bf450c86cacc1e3 948 Packages
+ 2d6609e20fbba7bb9872cd1e4806c0ba 484 Packages.gz
+ cf58ab5a2a99a898af2615fffcd032ec 556 Packages.bz2
+ dce32ddc77c5c65c928d938595b5bd76 548 Packages.xz
+ f0c9f95a951b09d39c154edddd89b756 478 Packages.zst
+
+SHA256:
+ 276ac48215f3e76d64aad27589e967ae62be8be1689b631f0850d008c61ff485 948 Packages
+ 97cb6b2aa20ce16f085383a4b6b9072187f8feffd9aa1284cbddeab5b170832d 484 Packages.gz
+ 61f006c441c99aa1f34246c7bdab4ed683ff2db97ffea0d403607daa76b07dfe 556 Packages.bz2
+ 427cf444cff62485b2197772cb5b2f30dc88c92e5fe136f03279d3ef126eb775 548 Packages.xz
+ 4fbdb9f31406447e812fdce70a409b02896359affc5a100af7c49ddd51403e68 478 Packages.zst

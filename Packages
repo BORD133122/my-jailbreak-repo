@@ -1,0 +1,30 @@
+Package: com.yourcompany.pulse
+Name: Pulse
+Description: Animated glowing clock for your lock screen
+Maintainer: Your Name
+Author: Your Name
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
+Architecture: iphoneos-arm
+Version: 1.0.0-1
+Installed-Size: 168
+Filename: debs/com.yourcompany.pulse_1.0.0-1_iphoneos-arm.deb
+Size: 7954
+MD5sum: 40cd4bef417483115175fd6bf36f7793
+SHA256: f060840364711df0b1518d381c88565d5711c4a84a34023a06d9973093ff5251
+
+Package: com.yourcompany.snaptap
+Name: SnapTap
+Description: Double tap status bar to lock, tap time to see date
+Maintainer: Your Name
+Author: Your Name
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
+Architecture: iphoneos-arm
+Version: 1.0.0-1
+Installed-Size: 168
+Filename: debs/com.yourcompany.snaptap_1.0.0-1_iphoneos-arm.deb
+Size: 7560
+MD5sum: 50ea2797a22c4f381060e27bda26e30c
+SHA256: afffd8ef5257c314ec1f32fa9ec224051cd4faf70f598d9604b97d49837284a0
+
