@@ -1,0 +1,23 @@
+Origin: Mr Penis Repo
+Label: Mr Penis Repo
+Suite: stable
+Version: 1.0
+Codename: stable
+Architectures: iphoneos-arm64 iphoneos-arm
+Components: main
+Description: 569 tweaks for palera1n iOS 15.8.7 + iOS 12 section
+Date: Thu, 01 Oct 2026 19:18:02 +0000
+
+MD5Sum:
+ ce2c0d7a6069e6b6d6c85ce1147c485d 332499 Packages
+ 21fc7c9bb5bf8bd916dc741c1ff57e2d 84160 Packages.gz
+ a91c0960b863cc02fdd22e73ff1abd73 66077 Packages.bz2
+ c31a716e5fedb9d1936b0fcebd5e0a90 69896 Packages.xz
+ d4f7704caba44d534c2629cb70060cf4 72641 Packages.zst
+
+SHA256:
+ 6a5587123ebb21357778df57bd5e29b7403c8929fe1f3985a8c4b8892b4d14b2 332499 Packages
+ 3af82a489c59fad17e718c42dc767bc453fde5067750166e7f0477866baa5d2f 84160 Packages.gz
+ 83c90c31f0867c06bd0e220336f109eeb6524485a90c579d01ef48d58476fb29 66077 Packages.bz2
+ f7f32bbba32d29971ffa46ec75d5d15ada7fa27d81334920cde512e01e684661 69896 Packages.xz
+ 022f74349a4d2d53e92b299ddc3674a77f73373a9026bd2200cab62a34aef903 72641 Packages.zst
